@@ -13,7 +13,6 @@ SELECT-OPTIONS: s_vbeln FOR likp-vbeln,
 PARAMETERS:     p_lfart type lfart,
                 p_vkorg type vkorg.
 
-DATA lv_test TYPE i.
 
 START-OF-SELECTION.
 
